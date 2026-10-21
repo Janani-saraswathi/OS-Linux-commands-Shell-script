@@ -47,17 +47,18 @@ cat < file1
 
 cat < file2
 ## OUTPUT
+
 <img width="499" height="134" alt="2" src="https://github.com/user-attachments/assets/161e7c65-b5d4-4a5e-9036-984c6ca3eb7a" />
 
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- <img width="465" height="56" alt="Screenshot from 2026-01-29 21-14-14" src="https://github.com/user-attachments/assets/362d2e63-c6c8-47c9-b7ca-e1a221529657" />
+<img width="465" height="56" alt="Screenshot from 2026-01-29 21-14-14" src="https://github.com/user-attachments/assets/362d2e63-c6c8-47c9-b7ca-e1a221529657" />
 
 comm file1 file2
  ## OUTPUT
- <img width="473" height="184" alt="Screenshot from 2026-01-29 21-14-38" src="https://github.com/user-attachments/assets/f0b166df-ce30-4e89-92c4-8e367db2125a" />
+<img width="473" height="184" alt="Screenshot from 2026-01-29 21-14-38" src="https://github.com/user-attachments/assets/f0b166df-ce30-4e89-92c4-8e367db2125a" />
 
 
  
