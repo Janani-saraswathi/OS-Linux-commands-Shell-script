@@ -62,6 +62,7 @@ comm file1 file2
 
  
 diff file1 file2
+
 ## OUTPUT
 <img width="478" height="232" alt="Screenshot from 2026-01-29 21-14-59" src="https://github.com/user-attachments/assets/f17ef415-b7e3-46d7-8ff0-99f88f0f742e" />
 
